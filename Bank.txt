@@ -1,0 +1,6 @@
+src/
+|-- bank/
+|   |-- BankAccount.java
+|   |-- SavingAccount.java
+|   |-- CurrentAccount.java
+|-- Main.java
